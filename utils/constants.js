@@ -1,0 +1,2 @@
+export const listingContractAddress = "0xe2E7b1bFB70F15B1eF20B91Ebb39eB8E555b398D"
+export const MeterContractAddress = "0xb0C79dac1bD64022fd1d7aa49eCE4aA505cAF01a"
